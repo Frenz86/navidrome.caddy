@@ -34,3 +34,4 @@ volumes:
   navidrome_data:
   caddy_data:
   caddy_config:
+  music:
